@@ -1,3 +1,3 @@
 # mina-bengali
-Informal Bengali font
+Informal Bengali font.
 Geometric and angular in nature
